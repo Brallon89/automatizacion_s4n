@@ -1,0 +1,13 @@
+{
+  "url": {
+    "domain": "http://54.224.106.199",
+    "port": ""
+  },
+  "browser": {
+    "browserName": "firefox"
+  },
+  "parallel": {
+    "enabled": "false",
+    "workers": 4
+  }
+}

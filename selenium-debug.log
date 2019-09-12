@@ -1,0 +1,22 @@
+11:27:48.770 INFO - Selenium build info: version: '3.4.0', revision: 'unknown'
+11:27:48.770 INFO - Launching a standalone Selenium Server
+2019-09-12 11:27:48.786:INFO::main: Logging initialized @224ms to org.seleniumhq.jetty9.util.log.StdErrLog
+11:27:48.848 INFO - Driver class not found: com.opera.core.systems.OperaDriver
+11:27:48.848 INFO - Driver provider com.opera.core.systems.OperaDriver registration is skipped:
+Unable to create new instances on this machine.
+11:27:48.849 INFO - Driver class not found: com.opera.core.systems.OperaDriver
+11:27:48.849 INFO - Driver provider com.opera.core.systems.OperaDriver is not registered
+11:27:48.850 INFO - Driver provider org.openqa.selenium.safari.SafariDriver registration is skipped:
+ registration capabilities Capabilities [{browserName=safari, version=, platform=MAC}] does not match the current platform WIN10
+2019-09-12 11:27:48.893:INFO:osjs.Server:main: jetty-9.4.3.v20170317
+2019-09-12 11:27:48.935:INFO:osjsh.ContextHandler:main: Started o.s.j.s.ServletContextHandler@3532ec19{/,null,AVAILABLE}
+2019-09-12 11:27:49.010:INFO:osjs.AbstractConnector:main: Started ServerConnector@5cb9f472{HTTP/1.1,[http/1.1]}{0.0.0.0:4444}
+2019-09-12 11:27:49.011:INFO:osjs.Server:main: Started @449ms
+11:27:49.011 INFO - Selenium Server is up and running
+11:27:49.251 INFO - SessionCleaner initialized with insideBrowserTimeout 0 and clientGoneTimeout 1800000 polling every 180000
+11:27:49.273 INFO - Executing: [new session: Capabilities [{acceptSslCerts=true, marionette=true, name=Login\login Successful, browserName=firefox, javascriptEnabled=true, platform=ANY}]])
+11:27:49.283 INFO - Creating a new session for Capabilities [{acceptSslCerts=true, marionette=true, name=Login\login Successful, browserName=firefox, javascriptEnabled=true, platform=ANY}]
+1568302069631	geckodriver	INFO	geckodriver 0.19.1
+1568302069638	geckodriver	INFO	Listening on 127.0.0.1:21493
+1568302070090	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SINASI~1\\AppData\\Local\\Temp\\rust_mozprofile.xRmHH7L0XPfg"
+1568302072513	Marionette	INFO	Listening on port 2828

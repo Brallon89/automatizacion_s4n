@@ -1,0 +1,46 @@
+{
+  "elements": {
+    "email": {
+      "selector": "input[id-automation='email-login']"
+    },
+    "password": {
+      "selector": "input[id-automation='password-login']"
+    },
+    "signIn": {
+      "selector": "button[id-automation='signIn-login']"
+    },
+    "register": {
+      "selector": "button[id-automation='signIn-register']"
+    },
+    "forgotPassword": {
+      "selector": "a[id-automation='next-forgot-password-login']"
+    },
+    "loginMessageError": {
+      "selector": ".td-message-sublabel"
+    },
+    "loginMessageInvalid": {
+      "selector":
+        ".mat-error[id-automation='mensajeError-access-email-invalid']"
+    },
+    "emailRequired": {
+      "selector":
+        ".mat-error[id-automation='mensajeError-access-email-required']"
+    },
+    "passwordRequired": {
+      "selector":
+        ".mat-error[id-automation='mensajeError-access-password-required']"
+    },
+    "hiddenBar": {
+      "selector": ".mat-icon-button"
+    },
+    "message": {
+      "selector": ".td-layout-nav-content>app-login>div>h3"
+    },
+    "backgroundMessage": {
+      "selector": ".td-layout-nav-content>app-login>div>h4"
+    },
+    "subtitle": {
+      "selector": ".subtitle"
+    }
+  }
+}

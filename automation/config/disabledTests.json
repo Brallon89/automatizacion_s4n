@@ -1,0 +1,107 @@
+{
+  "employeerInfo": {
+    "createEmployeerInfo": "false"
+  },
+  "employees": {
+    "createEmployer": "false",
+    "createEmployee": "false",
+    "createWritingAgent": "false",
+    "deleteEmployer": "false",
+    "editEmployee": "false",
+    "formSupportStaff": "false",
+    "formsWritingAgent": "false",
+    "portalsSupportStaff": "false",
+    "portalsWritingAgent": "false",
+    "searchEmployer": "false"
+  },
+  "enrollmentSettings": {
+    "editGeneral": "false",
+    "editMessage": "false",
+    "editQuoting": "false"
+  },
+  "forgotPassword": {
+    "emptyEmailForgotPassword": "false",
+    "forgotPassword": "false",
+    "invalidForgotPassword": "false",
+    "nonExistentEmail": "false"
+  },
+  "forms": {
+    "addPageCheckbox": "false",
+    "clearPage": "false",
+    "copyForms": "false",
+    "createForms": "false",
+    "deleteForms": "false",
+    "deletePageForms": "false",
+    "deletePageLayaout": "false",
+    "editForms": "false",
+    "editPageForms": "false",
+    "exportImportPage": "false"
+  },
+  "imagesJmanning": {
+    "addImages": "false"
+  },
+  "learningCenter": {
+    "cancelLearninCenter": "false",
+    "createAddInfo": "false",
+    "createPage": "false",
+    "createTopic": "false",
+    "createVideoLib": "fasle",
+    "deleteAddInfo": "false",
+    "deletePage": "false",
+    "deleteTopic": "false",
+    "deleteVideoLib": "false",
+    "editAddInfo": "false",
+    "editPage": "false",
+    "editTopic": "false",
+    "editVideoLib": "false",
+    "fullRegistry": "false"
+  },
+  "login": {
+    "emptyEmailPassword": "false",
+    "hiddenMessageBar": "false",
+    "invalidEmailAddress": "false",
+    "invalidPassword": "false",
+    "loginSuccessful": "false",
+    "nonExistentUser": "false",
+    "uppercaseLogin": "false"
+  },
+  "planDesign": {
+    "createPlanDesign": "false",
+    "defaultPlanDesign": "false",
+    "deletePlanDesign": "false",
+    "editPlanDesign": "false"
+  },
+  "portals": {
+    "cancelPortals": "false",
+    "createPortals": "false",
+    "deletePortals": "false",
+    "editPortals": "false",
+    "emptyFieldsCreate": "false",
+    "enableDisablePortals": "false"
+  },
+  "products": {
+    "createProduct": "false",
+    "deleteProduct": "false",
+    "deleteRateFiling": "false",
+    "editBioRiders": "false",
+    "editGeneralInformation": "false",
+    "editProduct": "false",
+    "editRateFiling": "false"
+  },
+  "registry": {
+    "fullRegistryTemporaryPass": "false",
+    "invalidEmailRegistry": "false",
+    "invalidPassRegistry": "false",
+    "registryAssociationCode": "false",
+    "registryEmptyField": "false",
+    "registrySuccessful": "false",
+    "registryTemporaryPass": "false",
+    "uppercaseRegistry": "false"
+  },
+  "runAQuote": {
+    "createRunAQuote": "false"
+  },
+  "theme": {
+    "editTheme": "false"
+  }
+}

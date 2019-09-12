@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="0"
+            tests="1">
+
+  <testsuite name="login.loginSuccessful"
+    errors="1" failures="0" hostname="" id="" package="login" skipped="0"
+    tests="1" time="0.005000" timestamp="Sun, 08 Sep 2019 17:17:21 GMT">
+  
+    <testcase name="Login successful" classname="login.loginSuccessful" time="0.005000" assertions="0">
+    </testcase>
+  
+
+  
+    <system-err>
+        Error while running [Login / Login Successful / Login successful]:
+
+  TypeError: driver.page.formTextArea is not a function
+    at Object.buildTestContext [as build] (C:\Users\BrayanClisman\Desktop\automation_test\automation\globals\testContext.js:4:37)
+    at Object.Login successful (C:\Users\BrayanClisman\Desktop\automation_test\automation\tests\login\loginSuccessful.js:7:38)
+    at Module.call (C:\Users\BrayanClisman\Desktop\automation_test\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\BrayanClisman\Desktop\automation_test\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\BrayanClisman\Desktop\automation_test\node_modules\q\q.js:834:54)
+    at C:\Users\BrayanClisman\Desktop\automation_test\node_modules\q\q.js:863:30
+    at Promise.promise.promiseDispatch (C:\Users\BrayanClisman\Desktop\automation_test\node_modules\q\q.js:796:13)
+    at C:\Users\BrayanClisman\Desktop\automation_test\node_modules\q\q.js:556:49
+    at runSingle (C:\Users\BrayanClisman\Desktop\automation_test\node_modules\q\q.js:137:13)
+    at flush (C:\Users\BrayanClisman\Desktop\automation_test\node_modules\q\q.js:125:13)
+    </system-err>
+  
+
+  
+  </testsuite>
+</testsuites>

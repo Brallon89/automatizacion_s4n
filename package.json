@@ -1,0 +1,20 @@
+{
+  "name": "automation_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nightwatch.conf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "nightwatch": "./node_modules/.bin/nightwatch",
+    "nightwatch:report": "./node_modules/.bin/nightwatch --reporter ./nightwatchReport.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "2.33.2",
+    "geckodriver": "1.10.0",
+    "handlebars": "4.2.0",
+    "nightwatch": "0.9.16",
+    "selenium-server-standalone-jar": "3.4.0"
+  }
+}
