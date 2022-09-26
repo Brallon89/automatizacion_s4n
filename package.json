@@ -14,7 +14,7 @@
     "chromedriver": "2.33.2",
     "geckodriver": "1.10.0",
     "handlebars": "4.2.0",
-    "nightwatch": "0.9.16",
+    "nightwatch": "2.3.9",
     "selenium-server-standalone-jar": "3.4.0"
   }
 }
